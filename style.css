@@ -34,3 +34,7 @@ p {
   font-size: 16px;
   line-height: 150%;
 }
+
+img {
+  border-radius: 16px;
+}
